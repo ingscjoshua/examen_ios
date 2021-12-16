@@ -1,0 +1,99 @@
+{
+   "colors":[
+      "#5AC6FF",
+      "#6C6C6C",
+      "#66B1AC",
+      "#FF5A5F",
+      "#0E7886",
+      "#66B1AC",
+      "#50AC52"
+   ],
+   "questions":[
+      {
+         "total":100,
+         "text":"¿Estaba limpia la sucursal?",
+         "chartData":[
+            {
+               "text":"si",
+               "percetnage":60
+            },
+            {
+               "text":"no",
+               "percetnage":40
+            }
+         ]
+      },
+      {
+         "total":100,
+         "text":"¿Qué empresas cuentan con medidas de seguridad?",
+         "chartData":[
+            {
+               "text":"Elektra",
+               "percetnage":30
+            },
+            {
+               "text":"Banco Azteca",
+               "percetnage":15
+            },
+            {
+               "text":"Neto",
+               "percetnage":15
+            },
+            {
+               "text":"Upax",
+               "percetnage":25
+            },
+            {
+               "text":"Dragon",
+               "percetnage":10
+            },
+            {
+               "text":"Otro",
+               "percetnage":5
+            }
+         ]
+      },
+      {
+         "total":100,
+         "text":"¿Qué formato tiene la tienda?",
+         "chartData":[
+            {
+               "text":"Tiendas Retail",
+               "percetnage":0
+            },
+            {
+               "text":"Tiendas operativas y 2.0",
+               "percetnage":100
+            }
+         ]
+      },
+      {
+         "total":100,
+         "text":"¿Qué formato tiene tu promozona?",
+         "chartData":[
+            {
+               "text":"Chica",
+               "percetnage":20
+            },
+            {
+               "text":"Grande",
+               "percetnage":80
+            }
+         ]
+      },
+      {
+         "total":100,
+         "text":"¿Está exhibido el producto en promoción?",
+         "chartData":[
+            {
+               "text":"Si",
+               "percetnage":40
+            },
+            {
+               "text":"No",
+               "percetnage":60
+            }
+         ]
+      }
+   ]
+}
